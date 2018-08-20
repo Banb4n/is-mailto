@@ -1,6 +1,6 @@
 {
   "name": "is-mailto",
-  "description": "A plugin to check if link is a valid 'mailto:'",
+  "description": "A function to check if link is a valid 'mailto:'",
   "version": "0.1.0",
   "main": "index.js",
   "repository": {
