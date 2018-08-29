@@ -1,9 +1,15 @@
 {
   "name": "is-mailto",
   "description": "A function to check if link is a valid 'mailto:'",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "keywords": [ "email", "mailto", "validate", "links", "href" ],
+  "keywords": [
+    "email",
+    "mailto",
+    "validate",
+    "links",
+    "href"
+  ],
   "repository": {
     "url": "https://github.com/Banb4n/is-mailto",
     "type": "git"
