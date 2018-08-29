@@ -4,7 +4,8 @@
  * @return {boolean}
  */
 function isMailTo(value) {
-    return /^mailto:.+\@.+\..+/i.test(value);
+    var re = /^mailto:.+\@.+\..+/i
+    return re.test(value);
 }
 
 module.exports = isMailTo;

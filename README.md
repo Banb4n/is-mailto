@@ -15,14 +15,14 @@ $ yarn add is-mailto
 ### Example:
 
 ```js
+import isMailTo from 'is-mailto';
+
 
 const string = 'mailto:test@test.com';
-
 console.log(isMailTo(string)) // true
 
 
 const string = 'mailto:test@test';
-
 console.log(isMailTo(string)) // false because it's not an valid email
 
 ```
